@@ -28,11 +28,29 @@ build_metadata.AdditionalFiles.ManifestResourceName = proiect.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Iulia/source/repos/fsega/medii_de_programare/proiect/proiect/MainPage.xaml]
+[C:/Users/Iulia/source/repos/fsega/medii_de_programare/proiect/proiect/Pages/ArticlePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = proiect.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = proiect.Pages.ArticlePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ArticlePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ArticlePage.xaml
+
+[C:/Users/Iulia/source/repos/fsega/medii_de_programare/proiect/proiect/Pages/Flyout_Page/AboutUs.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = proiect.Pages.Flyout_Page.AboutUs.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Flyout_Page\AboutUs.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Flyout_Page\AboutUs.xaml
+
+[C:/Users/Iulia/source/repos/fsega/medii_de_programare/proiect/proiect/Pages/Flyout_Page/Pagina_meniu.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = proiect.Pages.Flyout_Page.Pagina_meniu.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Flyout_Page\Pagina_meniu.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Flyout_Page\Pagina_meniu.xaml
+
+[C:/Users/Iulia/source/repos/fsega/medii_de_programare/proiect/proiect/Pages/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = proiect.Pages.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
 
 [C:/Users/Iulia/source/repos/fsega/medii_de_programare/proiect/proiect/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
